@@ -1,18 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tresp":
+  - firstname: ["Volker"]
+    url: https://www.dbs.ifi.lmu.de/~tresp/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Gu":
+  - firstname: ["Jindong"]
+    url: https://jindonggu.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Zhao":
+  - firstname: ["Rui"]
+    url: https://ruizhaogit.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Moor":
+  - firstname: ["Michael"]
+    url: https://www.michaelmoor.ml/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Yang":
+  - firstname: ["Yinchong"]
+    url: https://scholar.google.com/citations?user=7H87ifwAAAAJ&hl
+
+"Ma":
+  - firstname: ["Yunpu"]
+    url: https://www.dbs.ifi.lmu.de/cms/personen/mitarbeiter/ma/
+
+"Liu":
+  - firstname: ["Yushan"]
+    url: https://www.linkedin.com/in/liu-yushan/
